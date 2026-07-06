@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+date/
+assets_msyh_tmp.ttc
